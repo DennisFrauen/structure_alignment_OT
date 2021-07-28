@@ -1,6 +1,6 @@
 source("distances.R")
 
-#MOnotone rearrangement-------------------------------------------------------------------
+#Monotone rearrangement-------------------------------------------------------------------
 #Input: Loss matrix D (either median differences or partial Wasserstein distances)
 #       kappa (optionl) number of aligned residues,
 #       if kappa = 0, the full tensor H is returned
